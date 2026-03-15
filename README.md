@@ -1,14 +1,13 @@
-# Antonio Jara Sánchez
-
 Software Engineering Student at Duoc UC, currently focusing on Java, Python, and Fullstack development.
 
 ---
 
 ### Technical Expertise
 
-* **Programming Languages:** Python, Java.
+* **Languages:** Python, Java.
+* **Paradigm:** Object-Oriented Programming (OOP).
 * **Development:** Fullstack foundations (Spring Boot).
-* **Tools:** Linux (Debian/Ubuntu), Bash Scripting, Git/GitHub.
+* **Cloud & Tools:** Linux (Debian/Ubuntu), AWS (EC2 & Basics), Bash Scripting, Git/GitHub.
 * **Databases:** Relational modeling and PostgreSQL.
 
 ---
