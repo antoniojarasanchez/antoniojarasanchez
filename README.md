@@ -1,23 +1,22 @@
-Software Engineering Student at Duoc UC, currently focusing on Java, Python, and Fullstack development.
+Software Engineering Student at Duoc UC, currently focusing on learning Fullstack development with Java.
 
 ---
 
-### Technical Expertise
+### Skills
 
-* **Languages:** Python, Java.
-* **Paradigm:** Object-Oriented Programming (OOP).
+* **Programming Languages:** Python, Java.
 * **Development:** Fullstack foundations (Spring Boot).
-* **Cloud & Tools:** Linux (Debian/Ubuntu), AWS (EC2 & Basics), Bash Scripting, Git/GitHub.
-* **Databases:** Relational modeling and PostgreSQL.
+* **Tools:** Linux, AWS Basics, Bash Scripting, Git/GitHub.
+* **Databases:** Relational modeling and Oracle SQL.
 
 ---
 
-### Personal Academic Interests
+### Personal
 
-I have a strong interest in the intersection of formal sciences and engineering.
+I have interest in the intersection of formal sciences and engineering.
 
-* **Foundations:** 2.5 years of formal Physics studies at Universidad de Concepción, which I use to approach development and problem-solving systematically.
-* **Independent Study:** Continuous self-study of Physics and Mathematics for personal interest and as a complement to my engineering career.
+* **Foundations:** 2.5 years of formal Physics studies at Universidad de Concepción, which I use to approach development and problem-solving in a systematic way.
+* **Independent Study:** Continuous self-study of Physics and Mathematics for both personal interest and as a complement to my engineering career.
 
 ---
 
