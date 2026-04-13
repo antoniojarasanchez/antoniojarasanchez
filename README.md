@@ -1,27 +1,27 @@
-Software Engineering Student at Duoc UC, currently focusing on learning Fullstack development with Java.
+Software Engineering Student at Duoc UC.
+
+I approach software development and problem-solving in a systematic way. I always aim for industry standards. Currently, I am learning Fullstack Development using Java Spring Boot, while integrating best practices of software engineering.
 
 ---
 
-### Skills
-
-* **Programming Languages:** Python, Java.
-* **Development:** Fullstack foundations (Spring Boot).
-* **Tools:** Linux, AWS Basics, Bash Scripting, Git/GitHub.
-* **Databases:** Relational modeling and Oracle SQL.
+### Stack
+* **Languages:** Java, Python.
+* **Backend:** Spring Boot (In progress), REST APIs, MVC Architecture.
+* **Databases:** Oracle SQL, Relational Modeling.
+* **Cloud & Infra:** AWS Foundations, Linux CLI, Bash Scripting.
+* **Methodologies:** Agile/SCRUM, SDLC.
+* **Version Control:** Git, GitHub.
 
 ---
 
-### Personal
-
-I have interest in the intersection of formal sciences and engineering.
-
-* **Foundations:** 2.5 years of formal Physics studies at Universidad de Concepción, which I use to approach development and problem-solving in a systematic way.
-* **Independent Study:** Continuous self-study of Physics and Mathematics for both personal interest and as a complement to my engineering career.
+### Background
+* **Engineering:** Focused on learning Fullstack Development and Software Architecture.
+* **Physics and Math:** 2.5 years of formal Physics studies at Universidad de Concepción, which provided me with tools I now apply to software engineering
+* **Independent Study:** Continuous self-study for both personal interest and as a complement to my engineering career.
 
 ---
 
 ### Contact
-
-* **LinkedIn:** [antoniojarasanchez](https://www.linkedin.com/in/antoniojarasn/)
+* **LinkedIn:** [antoniojarasanchez](https://linkedin.com/in/antoniojarasanchez)
 * **Email:** antoniojarasanchez@proton.me
-* **Location:** Concepción, Chile.
+* **Location:** Concepción, Chile
