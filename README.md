@@ -1,6 +1,6 @@
 Software Engineering Student at Duoc UC.
 
-I approach software development and problem-solving in a systematic way. I always aim for industry standards. Currently, I am learning Fullstack Development using Java Spring Boot, while integrating best practices of software engineering.
+I approach software development and problem-solving in a systematic way, maintaining a constant focus on learning and integrating software engineering best practices. I am currently learning Fullstack Development using Java Spring Boot.
 
 ---
 
