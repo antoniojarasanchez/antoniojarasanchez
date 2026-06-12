@@ -1,23 +1,19 @@
-Software Engineering Student at Duoc UC.
-
-I approach software development and problem-solving in a systematic way, maintaining a constant focus on learning and integrating software engineering best practices. I am currently learning Fullstack Development using Java Spring Boot.
+Computer Engineering student at Duoc UC, specializing in Artificial Intelligence. Interested in software development and AI. Self-studies math and physics, sometimes writes programs based on those ideas.
 
 ---
 
-### Stack
-* **Languages:** Java, Python.
-* **Backend:** Spring Boot (In progress), REST APIs, MVC Architecture.
-* **Databases:** Oracle SQL, Relational Modeling.
-* **Cloud & Infra:** AWS Foundations, Linux CLI, Bash Scripting.
-* **Methodologies:** Agile/SCRUM, SDLC.
-* **Version Control:** Git, GitHub.
+### Stack:
+- Languages & Backend: Java (Spring Boot), Python, REST APIs, MVC, CSR
+- Databases: Oracle SQL, Relational modeling
+- Environment: Linux (CLI, Bash scripting), Git, GitHub, Docker
+- Methodologies: Agile/SCRUM, SDLC
 
 ---
 
-### Background
-* **Engineering:** Focused on learning Fullstack Development and Software Architecture.
-* **Physics and Math:** 2.5 years of formal Physics studies at Universidad de Concepción, which provided me with tools I now apply to software engineering
-* **Independent Study:** Continuous self-study for both personal interest and as a complement to my engineering career.
+### Background:
+- 2 years of Physics at Universidad de Concepción (incomplete).
+- Linux Home server administration for service deployment and automated file synchronization.
+- Certifications: Microsoft Azure AI Fundamentals, CertiProf CAIPC, Cisco Networking Academy (Modern AI, Cybersecurity, Digital Safety).
 
 ---
 
