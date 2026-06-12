@@ -12,7 +12,7 @@ Computer Engineering student at Duoc UC, specializing in Artificial Intelligence
 
 ### Background:
 - 2 years of Physics at Universidad de Concepción (incomplete).
-- Linux Home server administration for service deployment and automated file synchronization.
+- Linux home server administration for service deployment and automated file synchronization.
 - Certifications: Microsoft Azure AI Fundamentals, CertiProf CAIPC, Cisco Networking Academy (Modern AI, Cybersecurity, Digital Safety).
 
 ---
